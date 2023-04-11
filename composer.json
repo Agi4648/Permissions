@@ -1,0 +1,19 @@
+{
+    "name": "agi4648/permissions",
+    "description": "A library to add permissions.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agi4648\\Permissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agnesa Salihi",
+            "email": "asalihi@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
